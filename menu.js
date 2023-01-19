@@ -4,9 +4,9 @@ function Menu(){
     this.cite = "",
       
     this.nav = [
-        {ref: '/', name: 'Главная',  visible: true,
+       /* {ref: '/', name: 'Главная',  visible: true,
 			blockquote: '"Это всегда кажется невозможным, пока это не сделано"',
-			cite: 'Нельсон Мандела'}	 
+			cite: 'Нельсон Мандела'}	 */
         ],
    
     this.setActive = function(ref) {
