@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*:8080*
+Sitemap: https://misolimp.ru/sitemap.xml
+Host: https://misolimp.ru
